@@ -38,6 +38,12 @@ Publications
 - **Paper URL**: [Read the full paper](https://arxiv.org/abs/2405.01439)
 
 - **Citation**: Zhao R, Tang P, Luo S. Improving Domain Generalization on Gaze Estimation via Branch-out Auxiliary Regularization[J]. arXiv preprint arXiv:2405.01439, 2024.
-</details>
 
-
+Competition
+---
+- The 48th ACM-ICPC Asia Nanjing Regional Contest **Silver Medal**
+- The 9th CCPC Qinhuangdao Regional Contest **Silver Medal**
+- The 48th ACM-ICPC Asia Jinan Regional Contest **Bronze Medal**
+- The 47th ACM-ICPC Asia Shenyang Regional Contest **Bronze Medal**
+- The 47th ACM-ICPC Asia Jinan Regional Contest **Bronze Medal**
+- 2024 Mathematical Contest In Modeling Certificate of achievement **Honorable Mention**
