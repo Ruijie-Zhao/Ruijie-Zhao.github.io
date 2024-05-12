@@ -9,7 +9,7 @@ redirect_from:
 
 I am Ruijie Zhao, a third-year student majoring in Computer Science and Technology from [Ningbo University](https://www.nbu.edu.cn/). My research interest includes computer vision, machine learning, multi-model and gaze estimation.
 
----
+
 Publications
 ---
 
