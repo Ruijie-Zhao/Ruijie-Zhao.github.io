@@ -25,8 +25,6 @@ Publications
 
 - **Citation**: Zhao R, Wang Y, Luo S, et al. Gaze-Swin: Enhancing Gaze Estimation with a Hybrid CNN-Transformer Network and Dropkey Mechanism[J]. Electronics, 2024, 13(2): 328.
 
----
-
 ### Improving Domain Generalization on Gaze Estimation via Branch-out Auxiliary Regularization
   <details>
   <summary markdown="span"><strong>Abstract</strong></summary>
